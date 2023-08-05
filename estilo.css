@@ -1,0 +1,19 @@
+body{
+	background:coral;	
+	text-align;
+}
+h1{
+	color: black;
+	text-shadow: 0 0 10px beige;,0 0 5px red;
+}
+h2{
+	color: black;
+	text-shadow: 0 0 10px black;,0 0 5px red;
+}
+img{
+	width: 300px;
+	height: 300px;
+	border-radius: 0%;
+	box-shadow:0 0 10px 3px black ;
+
+}
